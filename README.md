@@ -2,6 +2,12 @@
 
 Backend test for internship application at Doczy.
 
+## Live testing
+
+Visit https://doczy-todo-crud.onrender.com/api
+
+The host services' free instance will spin down with inactivity, which can delay requests by 50 seconds or more. So please be patient.
+
 ## Building and running your application
 
 When you're ready, start your application by running:
