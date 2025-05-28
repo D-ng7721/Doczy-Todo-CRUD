@@ -35,7 +35,6 @@ export class TodoRepository implements IRepository<Todo> {
       .limit(pagination.limit)
       .lean()
       .exec();
-    console.log(query);
     return foundTodos;
   }
 
